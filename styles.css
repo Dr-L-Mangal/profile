@@ -1,0 +1,158 @@
+body
+{
+text-align: center;
+font-family: 'Merriweather', serif;
+margin: 0;
+}
+
+.top_container
+{
+    background-color:#e4f9f5;
+    margin-bottom: 100px;
+}
+
+h1{  
+font-family: 'Sacramento', cursive;
+font-size: 5.62rem;
+color: #66bfbf;
+margin: 0;
+padding-top: 100px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-size: 2.5rem;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+.top_cloud
+{
+    position: absolute;
+    top: 5%;
+    right: 15%;
+   
+}
+
+.bottom_cloud
+{
+    position: absolute;
+    left: 15%;
+    bottom: 40%;
+}
+
+.intro
+{
+    width: 30%;
+    padding-left: 35%;
+    color: #40514E; 
+    font-weight: bold;
+}
+
+.dp
+{
+    border-radius: 100%;
+}
+
+.footer-link
+{
+    color: #11999e;
+    background-color:transparent;
+	display:inline-block;
+	cursor:pointer;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+    text-decoration:none;
+    margin-top: 30px;
+}
+.pro
+{
+    font-weight: normal;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-weight: bold;
+}
+
+.cup
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.telescope
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr
+{
+    border-style: dotted none none none;
+    width: 5%;
+    border-width: 5px;
+    color: #b0c0c0;
+    margin-top: 40px;
+}
+
+.contact-me
+{
+    font-weight: bold;
+}
+
+.get
+{
+    padding-top: 50px ;
+}
+
+.feel
+{
+    padding-bottom: 20px;
+}
+
+.myButton {
+	background-color:#66bfbf;
+	border-radius:28px;
+	border:1px solid #66bfbf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #529b9b;
+}
+.myButton:hover {
+	background-color:#73dada;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container
+{
+    background-color: #66bfbf;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.copyright
+{
+    color: #eaf6f6;
+}
